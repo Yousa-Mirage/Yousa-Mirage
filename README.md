@@ -9,6 +9,7 @@
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Yousa-Mirage&show_icons=true&locale=en&theme=transparent" alt="Stats" height="170px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Yousa-Mirage&show_icons=true&locale=en&layout=compact&theme=transparent" alt="Languages" height="170px" />
+  <img src="https://github-readme-stats-theta-three-86.vercel.app/api?username=Yousa-Mirage&show_icons=true&locale=en&theme=transparent&count_private=true" alt="Stats" height="170px" />
+
+  <img src="https://github-readme-stats-theta-three-86.vercel.app/api/top-langs?username=Yousa-Mirage&show_icons=true&locale=en&layout=compact&theme=transparent" alt="Languages" height="170px" />
 </div>
