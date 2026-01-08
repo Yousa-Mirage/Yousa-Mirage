@@ -1,9 +1,5 @@
 # Hi 👋, I'm 天然純真 / Yousa-Mirage
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=Yousa-Mirage&label=Profile%20views&color=0e75b6&style=flat" alt="Views" />
-</p>
-
 - 🔭 I'm currently working on:
   - Some SciSci Research Projects
   - [Tufted-Blog-Template](https://github.com/Yousa-Mirage/Tufted-Blog-Template): A beautiful blog template using the Tufte style, powered by Typst. 
