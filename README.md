@@ -13,6 +13,7 @@
 
 </div>
 
+- 🎓 I'm a PhD student in Sociology at the School of Social Sciences, Tsinghua University.
 - 🌱 I'm currently learning:
   ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white) ![Rust](https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white) ![Typst](https://img.shields.io/badge/Typst-239120?logo=typst&logoColor=white)
 - 🔭 I'm currently working on:
