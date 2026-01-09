@@ -3,7 +3,7 @@
   [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=天然純真+/+Yousa-Mirage&vCenter=true)](https://git.io/typing-svg) 
   
   <img
-    src="https://github-readme-stats-theta-three-86.vercel.app/api?username=Yousa-Mirage&show_icons=true&locale=en&theme=transparent&count_private=true"
+    src="https://github-readme-stats-theta-three-86.vercel.app/api?username=Yousa-Mirage&show_icons=true&locale=en&theme=transparent&count_private=true&include_all_commits=true"
     style="height:170px; object-fit: cover;"
   />
   <img
