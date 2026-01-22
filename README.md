@@ -17,8 +17,10 @@
 - 🌱 I'm currently learning:
   ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white) ![Rust](https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white) ![Typst](https://img.shields.io/badge/Typst-239120?logo=typst&logoColor=white)
 - 🔭 I'm currently working on:
-  - Some SciSci Research Projects;
-  - [Tufted-Blog-Template](https://github.com/Yousa-Mirage/Tufted-Blog-Template): A beautiful blog template using the Tufte style, powered by Typst. 
+  - Several SciSci Research Projects
+  - [Tufted-Blog-Template](https://github.com/Yousa-Mirage/Tufted-Blog-Template): A beautiful blog template using the Tufte style, powered by Typst
+  - [ToDuo-rs](https://github.com/Yousa-Mirage/ToDuo-rs): An elegant, lightweight and pure TODO management tool, TUI+GUI dual mode, based on todo.txt
+  - [faststm](https://github.com/Yousa-Mirage/faststm): A High-Performance Rust Implementation of Structural Topic Models
 - 👯 I'm looking to collaborate on **any interesting projects, especially Rust + Python/R for data science**.
 
 <picture>
