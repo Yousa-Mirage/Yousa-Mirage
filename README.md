@@ -19,6 +19,7 @@
 - 🔭 I'm currently working on:
   - Several SciSci Research Projects
   - [Tufted-Blog-Template](https://github.com/Yousa-Mirage/Tufted-Blog-Template): A beautiful blog template using the Tufte style, powered by Typst
+  - [ggtypst](https://github.com/Yousa-Mirage/ggtypst): Render High-Quality Text and Formulas in 'ggplot2' by Typst
   - [ToDuo-rs](https://github.com/Yousa-Mirage/ToDuo-rs): An elegant, lightweight and pure TODO management tool, TUI+GUI dual mode, based on todo.txt
 - 👯 I'm looking to collaborate on **any interesting projects, especially Rust + Python/R for data science**.
 
