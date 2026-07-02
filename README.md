@@ -21,6 +21,7 @@
   - [Tufted-Blog-Template](https://github.com/Yousa-Mirage/Tufted-Blog-Template): A beautiful blog template using the Tufte style, powered by Typst
   - [ggtypst](https://github.com/Yousa-Mirage/ggtypst): Render High-Quality Text and Formulas in 'ggplot2' by Typst
   - [r-ahocorasick](https://github.com/Yousa-Mirage/r-ahocorasick): Fast multi-pattern string matching with Aho-Corasick in R, powered by Rust
+  - [jiebaRS](https://github.com/Yousa-Mirage/jiebaRS): A modern, faster and active alternative to [jiebaR](https://github.com/qinwf/jiebaR), powered by Rust
 - 👯 I'm looking to collaborate on **any interesting projects, especially Rust + Python/R for data science**.
 
 <picture>
