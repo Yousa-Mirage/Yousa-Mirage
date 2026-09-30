@@ -23,6 +23,8 @@
   - ![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white) ![Rust](https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white) [r-ahocorasick](https://github.com/Yousa-Mirage/r-ahocorasick): Fast multi-pattern string matching with Aho-Corasick in R, powered by Rust
   - ![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white) ![Rust](https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white) [jiebaRS](https://github.com/Yousa-Mirage/jiebaRS): A modern, faster and active alternative to [jiebaR](https://github.com/qinwf/jiebaR), powered by Rust
   - ![Rust](https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white) ![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) [cidian-rs](https://github.com/Yousa-Mirage/cidian-rs)/[r-cidian](https://github.com/Yousa-Mirage/r-cidian)/[py-cidian](https://github.com/Yousa-Mirage/py-cidian): A Rust/R/Python package for parsing Chinese input method dictionary files
+  - ![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white) [tidypolars](https://github.com/etiennebacher/tidypolars): More efficient tidyverse code, using polars in the background. Authored by Etienne Bacher.
+  - ![Rust](https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white) [Jarl](https://github.com/etiennebacher/jarl): Jarl is a fast linter for R, powered by Rust. Authored by Etienne Bacher.
 - 👯 I'm looking to collaborate on **any interesting projects, especially Rust + Python/R for data science**.
 
 <picture>
